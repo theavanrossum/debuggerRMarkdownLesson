@@ -44,5 +44,5 @@ myMenu <- data.frame(
   descriptions = c("## Bacon, lettuce and tomato sandwhich ##",
                    "## Cream of mushroom and leek soup ##")
   )
-print(myMenu)
-confuseTheCustomers(myMenu)
+#print(myMenu)
+#confuseTheCustomers(myMenu)

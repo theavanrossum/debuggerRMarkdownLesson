@@ -1,8 +1,15 @@
 # RStudio - beyond the editor
 
 - **Author**: Thea Van Rossum
-- **Research field**: bioinformatics, metagenomics
 - **Lesson Topic**: RStudio Debugging
+
+## Set-up
+1. Open a new project in RStudio, save it somewhere
+2. Download these two files:
+https://github.com/theavanrossum/debuggerRMarkdownLesson/blob/master/printTriangle.R
+https://github.com/theavanrossum/debuggerRMarkdownLesson/blob/master/crazify.R
+3. Add these files to your project
+
 
 ## Pre-test 
 Let's get a feel for the room. Who here:
@@ -112,10 +119,14 @@ It fails! Try using the debugger to fix it.
 ##Other ways to debug
 You can also call the debug() function on a function (like: debug(crazify)) and you can stick the browser() command into a function -- like a breakpoint. 
 
+Check out https://vimeo.com/99375765 for more
 
-## RMarkdown
+# If time remains...
 
-## Packages
+Vote: who wants to look at 
+1. Creating a package in RStudio
+2. Using RMarkdown
+
 
 
 unlist|stringsasfactors|sapply

@@ -1,8 +1,3 @@
----
-output: 
-  html_document: 
-    toc: yes
----
 # RStudio - beyond the editor
 
 - **Author**: Thea Van Rossum

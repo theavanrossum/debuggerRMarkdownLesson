@@ -130,9 +130,7 @@ Vote: who wants to:
 
 
 Answers:
->! Triangle:
->! stars<-"" should be in the i loop
->! Crazify:
->! missing unlist from strsplit in crazify function
->! missing stringsasfactors = F in definition of myMenu
->! need to use sapply instead of trying to call: crazify(menu$Descriptions) 
+> Triangle: stars<-"" should be in the i loop || Crazify:
+(1) missing unlist from strsplit in crazify function
+(2) missing stringsasfactors = F in definition of myMenu
+(3) need to use sapply instead of trying to call: crazify(menu$Descriptions) 

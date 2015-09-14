@@ -121,10 +121,18 @@ Check out https://vimeo.com/99375765 for more
 
 # If time remains...
 
-Vote: who wants to look at 
-1. Creating a package in RStudio
-2. Using RMarkdown
+Vote: who wants to:
+
+1. Work on some of your own code and force yourself to use the debugger when you hit any issues.
+2. Look at how to create a package in RStudio
+3. Get a breif intro to using RMarkdown
 
 
 
-unlist|stringsasfactors|sapply
+Answers:
+>! Triangle:
+>! stars<-"" should be in the i loop
+>! Crazify:
+>! missing unlist from strsplit in crazify function
+>! missing stringsasfactors = F in definition of myMenu
+>! need to use sapply instead of trying to call: crazify(menu$Descriptions) 

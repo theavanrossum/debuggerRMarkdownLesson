@@ -6,7 +6,8 @@
 ## Set-up
 1. Open a new project in RStudio, save it somewhere
 2. Download these two files:
-[printTriangle.R](https://raw.githubusercontent.com/theavanrossum/debuggerRMarkdownLesson/master/printTriangle.R) [crazify.R](https://raw.githubusercontent.com/theavanrossum/debuggerRMarkdownLesson/master/crazify.R)
+** [printTriangle.R](https://raw.githubusercontent.com/theavanrossum/debuggerRMarkdownLesson/master/printTriangle.R) 
+** [crazify.R](https://raw.githubusercontent.com/theavanrossum/debuggerRMarkdownLesson/master/crazify.R)
 3. Add these files to your project
 
 

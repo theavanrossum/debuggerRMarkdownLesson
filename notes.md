@@ -17,7 +17,7 @@ Let's get a feel for the room. Who here:
 * has used RStudio before?
 * has used a debugger before?
 * has written an R function before?
-* who is here for debugging? (if not, you may not want to stay)
+* who is here for debugging? (this will be the focus today!)
 * who is more interested in Rmarkdown or making packages? - maybe for a future lesson or quickly at the end
 
 
